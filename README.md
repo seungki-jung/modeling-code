@@ -14,5 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+사용한 패키지 : python
+데이터 분석 프로세스 :
+Load Data-EDA-Data Preprocessing-Muchine Learning
+
+
 1.House Price Prediction
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungki-jung)]
+2.뇌졸증 제이터
+3.롤 다이아1~마스터구간 승패여부 예측
+4.와인 품질 분류하기
+5.은행 이탈고객 예측
+6.자동차보험회사 고객데이터
+7.피마 인디언 당뇨병
