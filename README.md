@@ -20,9 +20,15 @@ Load Data-EDA-Data Preprocessing-Muchine Learning
 
 
 1.House Price Prediction<r>
+  
 2.뇌졸증 제이터
+  
 3.롤 다이아1~마스터구간 승패여부 예측
+  
 4.와인 품질 분류하기
+  
 5.은행 이탈고객 예측
+  
 6.자동차보험회사 고객데이터
+  
 7.피마 인디언 당뇨병
