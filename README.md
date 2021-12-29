@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Load Data-EDA-Data Preprocessing-Muchine Learning
 
 
-1.House Price Prediction<r>
+1.House Price Prediction
   
 2.뇌졸증 제이터
   
