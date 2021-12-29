@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 데이터 분석 프로세스 :
 Load Data-EDA-Data Preprocessing-Muchine Learning
 
+
 목 차
 
 1.House Price Prediction
