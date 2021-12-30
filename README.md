@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 사용한 패키지 : python
 
 데이터 분석 프로세스 :
-Load Data-EDA-Data Preprocessing-Muchine Learning
+Load Data-EDA-Data Preprocessing-Machine Learning
 
 
 
