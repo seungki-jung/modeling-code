@@ -27,3 +27,8 @@ Load Data-EDA-Data Preprocessing-Machine Learning
 <img src="https://img.shields.io/badge/Qgis-589632?style=flat-square&logo=Qgis&logoColor=white"/>
 
 ### Tools
+
+## Certificate & experience
+2020.07.07 adsp
+2021.04.16 Sqld
+2021.07.16 빅데이터분석기사
