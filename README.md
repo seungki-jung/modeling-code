@@ -21,7 +21,9 @@ Load Data-EDA-Data Preprocessing-Machine Learning
 
 ## Skills
 
-<img src="https://img.shields.io/badge/Python-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-#F37626?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/QGIS-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 목 차
 
 1.House Price Prediction
