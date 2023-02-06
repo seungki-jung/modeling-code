@@ -21,7 +21,7 @@ Load Data-EDA-Data Preprocessing-Machine Learning
 
 ## Skills
 
-<img src="https://img.shields.io/badge/3776AB-F37626?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
 <img src="https://img.shields.io/badge/Qgis-589632?style=flat-square&logo=Qgis&logoColor=white"/>
 목 차
