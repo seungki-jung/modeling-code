@@ -21,21 +21,9 @@ Load Data-EDA-Data Preprocessing-Machine Learning
 
 ## Skills
 
+### Platforms & Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
 <img src="https://img.shields.io/badge/Qgis-589632?style=flat-square&logo=Qgis&logoColor=white"/>
-목 차
 
-1.House Price Prediction
-  
-2.뇌졸증 제이터
-  
-3.롤 다이아1~마스터구간 승패여부 예측
-  
-4.와인 품질 분류하기
-  
-5.은행 이탈고객 예측
-  
-6.자동차보험회사 고객데이터
-  
-7.피마 인디언 당뇨병
+### Tools
