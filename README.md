@@ -29,6 +29,6 @@ Load Data-EDA-Data Preprocessing-Machine Learning
 ### Tools
 
 ## Certificate & experience
-2020.07.07 adsp
+2020.07.07 adsp \
 2021.04.16 Sqld
 2021.07.16 빅데이터분석기사
