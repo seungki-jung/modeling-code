@@ -26,6 +26,10 @@ Load Data-EDA-Data Preprocessing-Machine Learning
 
 ### Tools
 
+### Algorithms
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=smw04143)](https://solved.ac/smw04143)
+
 ## Certificate & Experience
 ### Certificate
 2020.07.07 adsp \
@@ -36,5 +40,4 @@ Load Data-EDA-Data Preprocessing-Machine Learning
 2022.05.31-2022.08.31 데이터분석 청년인재 양성사업 교육(520시간) 수료\
 2022.09.05-2023.02.28 강동구청에서 일경험 수련 ~ing
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=smw04143)](https://solved.ac/smw04143)
+
