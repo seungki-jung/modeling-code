@@ -18,18 +18,6 @@ Here are some ideas to get you started:
 hello😄!! Thanks for visiting my github. My name is Seungki Jeong, who dreams of becoming a data scientist.\
 My hobbies are playing the guitar and playing games.
 
-## Skills
-
-### Platforms & Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/Qgis-589632?style=flat-square&logo=Qgis&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/> 
-
-### tech stack
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/> <img src="https://img.shields.io/badge/SciPy-CAAE6?style=flat-square&logo=SciPy&logoColor=black"/> <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=black"/> 
-
-### Algorithms
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=smw04143)](https://solved.ac/smw04143)
-
 ## Certificate & Experience
 ### Certificate
 2020.07.07 adsp \
@@ -40,5 +28,18 @@ My hobbies are playing the guitar and playing games.
 2018.03 가천대학교 응용통계학과 입학(편입학)  /  2022.02 학부 졸업\
 2022.05.31-2022.08.31 데이터분석 청년인재 양성사업 교육(520시간) 수료\
 2022.09.05-2023.02.28 강동구청에서 일경험 수련 ~ing
+
+## Skills
+### Platforms & Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/Qgis-589632?style=flat-square&logo=Qgis&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/> 
+
+### Tech Stack
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/> <img src="https://img.shields.io/badge/SciPy-CAAE6?style=flat-square&logo=SciPy&logoColor=black"/> <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=black"/> 
+
+### Backjoon Algorithms
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=smw04143)](https://solved.ac/smw04143)
+
+
 
 
