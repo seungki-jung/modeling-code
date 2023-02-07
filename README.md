@@ -37,4 +37,4 @@ Load Data-EDA-Data Preprocessing-Machine Learning
 2022.09.05-2023.02.28 강동구청에서 일경험 수련 ~ing
 
 [![Solved.ac
-smw04143](http://mazassumnida.wtf/api/v2/generate_badge?boj={smw04143})](https://solved.ac/{smw04143})
+smw04143](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
