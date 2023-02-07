@@ -18,16 +18,20 @@ Here are some ideas to get you started:
 hello😄!! Thanks for visiting my github. My name is Seungki Jeong, who dreams of becoming a data scientist.\
 My hobbies are playing the guitar and playing games.
 
-## Certificate & Experience
-### Certificate
-2020.07.07 adsp \
-2021.04.16 sqld \
-2021.07.16 빅데이터분석기사
-
+## Experience & Certificate
 ### Education & Experience
 2018.03 가천대학교 응용통계학과 입학(편입학)  /  2022.02 학부 졸업\
 2022.05.31-2022.08.31 데이터분석 청년인재 양성사업 교육(520시간) 수료\
 2022.09.05-2023.02.28 강동구청에서 일경험 수련 ~ing
+
+### Acquisition of License
+2020.06.26 사회조사분석사2급 \
+2020.07.07 adsp(데이터분석준전문가) \
+2021.02.05 컴퓨터활용능력1급 \
+2021.04.16 sqld(SQL개발자) \
+2021.07.16 빅데이터분석기사
+
+
 
 ## Skills
 ### Platforms & Languages
