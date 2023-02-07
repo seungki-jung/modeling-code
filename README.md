@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-hello😄!! Thanks for visiting my github. My name is Seungki Jeong, who dreams of becoming a data scientist.
+hello😄!! Thanks for visiting my github. My name is Seungki Jeong, who dreams of becoming a data scientist.\
 
+My hobbies are playing the guitar and playing games.
 ## Skills
 
 ### Platforms & Languages
