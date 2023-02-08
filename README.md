@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### "I can do everything through him who gives me strength"
-- Philippians 4:13 -
+### "I can do everything through him who gives me strength" - Philippians 4:13 -
+
+
 
 hello😄!! Thanks for visiting my github. My name is Seungki Jeong, who dreams of becoming a data scientist.\
 My hobbies are playing the guitar🎸 and playing games🎵.
