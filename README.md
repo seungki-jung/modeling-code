@@ -46,6 +46,8 @@ My hobbies are playing the guitar🎸 and playing games🎵.
 
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungki-jung&layout=compact&theme=cobalt)
 ### Tech Stack
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/> <img src="https://img.shields.io/badge/SciPy-CAAE6?style=flat-square&logo=SciPy&logoColor=black"/> <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=black"/> 
 
