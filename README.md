@@ -36,8 +36,9 @@ My hobbies are playing the guitar🎸 and playing games🎵.
 
 
 <div align="center">
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungkijung&layout=compact&theme=cobalt)
- [![Seungki's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungki-jung&row=1(https://github.com/seungki-jung)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungkijung&layout=compact&theme=cobalt)
+ 
+[![Seungki's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungki-jung&row=1(https://github.com/seungki-jung)
 /div>
 
 
