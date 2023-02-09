@@ -35,10 +35,10 @@ My hobbies are playing the guitar🎸 and playing games🎵.
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/> <img src="https://img.shields.io/badge/SciPy-CAAE6?style=flat-square&logo=SciPy&logoColor=black"/> <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=black"/>       
 
 
-<figure class="half">
+<div align="center">
     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungkijung&layout=compact&theme=cobalt)
     [![Seungki's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungki-jung&row=1)](https://github.com/seungki-jung)
-figure>
+/div>
 
 
 
