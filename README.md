@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseungki-jung&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### "I can do everything through him who gives me strength" - Philippians 4:13 -
 
 
@@ -42,10 +43,3 @@ My hobbies are playing the guitar🎸 and playing games🎵.
 ### Backjoon Algorithms
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=smw04143)](https://solved.ac/smw04143)           
-
- 
- 
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseungki-jung&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
-
