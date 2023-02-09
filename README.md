@@ -50,5 +50,5 @@ My hobbies are playing the guitar🎸 and playing games🎵.
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=smw04143)](https://solved.ac/smw04143)
 
 
-[![Seungki's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/seungki-jung)
+[![Seungki's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungki-jung)](https://github.com/seungki-jung)
 
