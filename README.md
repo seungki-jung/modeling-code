@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 
 hello😄!! Thanks for visiting my github. My name is Seungki Jeong, who dreams of becoming a data scientist.\
-My hobbies are playing the guitar🎸 and playing games🎵.    [![Seungki's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungki-jung)](https://github.com/seungki-jung)
+My hobbies are playing the guitar🎸 and playing games🎵.
+[![Seungki's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungki-jung)](https://github.com/seungki-jung)
 
 ## 👍Experience & Certificate
 ### Education & Experience
