@@ -41,6 +41,8 @@ My hobbies are playing the guitar🎸 and playing games🎵.
 [![Seungki's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungki-jung&row=1(https://github.com/seungki-jung){: width="100" height="100"}
 
 
+![Seungki's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungki-jung&show_icons=true&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungki-jung&layout=compact&theme=tokyonight)
 
 ### Backjoon Algorithms
 [![Solved.ac
