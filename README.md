@@ -35,14 +35,10 @@ My hobbies are playing the guitar🎸 and playing games🎵.
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/> <img src="https://img.shields.io/badge/SciPy-CAAE6?style=flat-square&logo=SciPy&logoColor=black"/> <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=black"/>       
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungkijung&layout=compact&theme=cobalt){: width="100" height="100"}
- 
-[![Seungki's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungki-jung&row=1(https://github.com/seungki-jung){: width="100" height="100"}
-
-
 ![Seungki's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungki-jung&show_icons=true&theme=cobalt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungki-jung&layout=compact&theme=tokyonight)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=smw04143)](https://solved.ac/smw04143)     
 
 ### Backjoon Algorithms
 [![Solved.ac
