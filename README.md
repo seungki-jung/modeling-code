@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 hello😄!! Thanks for visiting my github. My name is Seungki Jeong, who dreams of becoming a data scientist.\
-My hobbies are playing the guitar🎸 and playing games🎵.
+My hobbies are playing the guitar🎸 and playing games🎵.    [![Seungki's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungki-jung)](https://github.com/seungki-jung)
 
 ## 👍Experience & Certificate
 ### Education & Experience
@@ -50,5 +50,5 @@ My hobbies are playing the guitar🎸 and playing games🎵.
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=smw04143)](https://solved.ac/smw04143)
 
 
-[![Seungki's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungki-jung)](https://github.com/seungki-jung)
+
 
