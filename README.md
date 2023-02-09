@@ -38,12 +38,10 @@ My hobbies are playing the guitar🎸 and playing games🎵.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungkijung&layout=compact&theme=cobalt){: width="100" height="100"}
  
-[![Seungki's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungki-jung&row=1(https://github.com/seungki-jung)
+[![Seungki's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungki-jung&row=1(https://github.com/seungki-jung){: width="100" height="100"}(https://github.com/seungki-jung)
 
 
 
-
-(https://github.com/seungki-jung)
 ### Backjoon Algorithms
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=smw04143)](https://solved.ac/smw04143)           
